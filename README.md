@@ -12,7 +12,7 @@ Welcome to my repository for the Python Programming Internship tasks! This repos
 
 ### 2. Stock Portfolio Performance Tracker (`Stock_Portfolio_Tracker`)
 * **Description:** An investment portfolio tracking utility that allows users to input stock ticker symbols, share quantities, and purchase prices, computes total portfolio value, and automatically logs summary data to a CSV file.
-* **Files:** `portfolio.py`, `portfolio_Summary.csv`, `constituents.txt`
+* **Files:** `portfolio.py`, `portfolio_Summary.csv`
 
 ---
 
